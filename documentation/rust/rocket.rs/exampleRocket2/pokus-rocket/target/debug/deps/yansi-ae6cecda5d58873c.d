@@ -1,0 +1,12 @@
+/home/jibl/rust-a-deno/documentation/rust/rocket.rs/exampleRocket2/pokus-rocket/target/debug/deps/yansi-ae6cecda5d58873c.rmeta: /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/home/jibl/rust-a-deno/documentation/rust/rocket.rs/exampleRocket2/pokus-rocket/target/debug/deps/libyansi-ae6cecda5d58873c.rlib: /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/home/jibl/rust-a-deno/documentation/rust/rocket.rs/exampleRocket2/pokus-rocket/target/debug/deps/yansi-ae6cecda5d58873c.d: /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs:

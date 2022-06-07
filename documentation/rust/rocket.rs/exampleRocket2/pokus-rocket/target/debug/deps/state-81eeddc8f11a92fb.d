@@ -1,0 +1,12 @@
+/home/jibl/rust-a-deno/documentation/rust/rocket.rs/exampleRocket2/pokus-rocket/target/debug/deps/state-81eeddc8f11a92fb.rmeta: /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/home/jibl/rust-a-deno/documentation/rust/rocket.rs/exampleRocket2/pokus-rocket/target/debug/deps/libstate-81eeddc8f11a92fb.rlib: /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/home/jibl/rust-a-deno/documentation/rust/rocket.rs/exampleRocket2/pokus-rocket/target/debug/deps/state-81eeddc8f11a92fb.d: /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs:
+/home/jibl/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs:
